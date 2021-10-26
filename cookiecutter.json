@@ -1,0 +1,7 @@
+{
+    "api_name": "custom_app",
+    "api_base_url": "/api/customapp/v1",
+    "author": "First Last",
+    "author_email": "first.last@github.com",
+    "api_description": "it does stuff"
+  }

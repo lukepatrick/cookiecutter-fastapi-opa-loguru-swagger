@@ -1,0 +1,12 @@
+flake8-black
+tox
+coverage
+pytest
+pytest_mock
+pytest_cov
+pip-tools
+tox
+bandit
+yamllint
+requests_mock
+requests~=2.24.0
